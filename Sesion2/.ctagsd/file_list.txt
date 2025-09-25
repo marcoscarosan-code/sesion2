@@ -1,0 +1,3 @@
+C:\Users\marco\Documents\Codelite\sesion2\ejemplo3\main.cpp
+C:\Users\marco\Documents\Codelite\sesion2\ejemplo2\main.cpp
+C:\Users\marco\Documents\Codelite\sesion2\ejemplo1\main.cpp

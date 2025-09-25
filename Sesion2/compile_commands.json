@@ -1,0 +1,13 @@
+[{
+  "file": "C:\\Users\\marco\\Documents\\Codelite\\sesion2\\ejemplo2\\main.cpp",
+  "directory": "C:\\Users\\marco\\Documents\\Codelite\\sesion2\\ejemplo2",
+  "command": "clang++ -c C:\\Users\\marco\\Documents\\Codelite\\sesion2\\ejemplo2\\main.cpp -o C:\\Users\\marco\\Documents\\Codelite\\sesion2\\ejemplo2\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\marco\\Documents\\Codelite\\sesion2\\ejemplo3\\main.cpp",
+  "directory": "C:\\Users\\marco\\Documents\\Codelite\\sesion2\\ejemplo3",
+  "command": "clang++ -c C:\\Users\\marco\\Documents\\Codelite\\sesion2\\ejemplo3\\main.cpp -o C:\\Users\\marco\\Documents\\Codelite\\sesion2\\ejemplo3\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\marco\\Documents\\Codelite\\sesion2\\Ejemplo1\\main.cpp",
+  "directory": "C:\\Users\\marco\\Documents\\Codelite\\sesion2\\Ejemplo1",
+  "command": "clang++ -c C:\\Users\\marco\\Documents\\Codelite\\sesion2\\Ejemplo1\\main.cpp -o C:\\Users\\marco\\Documents\\Codelite\\sesion2\\Ejemplo1\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }]

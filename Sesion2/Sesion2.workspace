@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="sesion2" Database="" Version="10000">
+  <Project Name="ejemplo1" Path="Ejemplo1/ejemplo1.project" Active="No"/>
+  <Project Name="ejemplo2" Path="ejemplo2/ejemplo2.project" Active="No"/>
+  <Project Name="ejemplo3" Path="ejemplo3/ejemplo3.project" Active="No"/>
+  <Project Name="ejemplo4-10" Path="ejemplo4-10/ejemplo4-10.project" Active="No"/>
+  <Project Name="ejemplo5-11" Path="ejemplo5-11/ejemplo5-11.project" Active="No"/>
+  <Project Name="ejemplo6-12" Path="ejemplo6-12/ejemplo6-12.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="ejemplo1" ConfigName="Debug"/>
+      <Project Name="ejemplo2" ConfigName="Debug"/>
+      <Project Name="ejemplo3" ConfigName="Debug"/>
+      <Project Name="ejemplo4-10" ConfigName="Debug"/>
+      <Project Name="ejemplo5-11" ConfigName="Debug"/>
+      <Project Name="ejemplo6-12" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="ejemplo1" ConfigName="Release"/>
+      <Project Name="ejemplo2" ConfigName="Release"/>
+      <Project Name="ejemplo3" ConfigName="Release"/>
+      <Project Name="ejemplo4-10" ConfigName="Release"/>
+      <Project Name="ejemplo5-11" ConfigName="Release"/>
+      <Project Name="ejemplo6-12" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
